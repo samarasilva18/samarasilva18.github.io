@@ -1,0 +1,60 @@
+#realbody {
+    align-content: center;
+    color: chocolate;
+    background-color: white;
+    width: 100%;
+    max-width: 75rem;
+    border-radius: .8rem;
+    margin-top: 0rem;
+    margin: 3.2rem;
+    padding-top: 1rem;
+    padding-bottom: 6.4rem;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#realbody h2 {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.container {
+    width: 100%;
+    box-sizing: border-box;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.box1, .box2, .box4, .box5 {
+    width: 25rem;
+    height: 30rem;
+    border: chocolate 1px solid;
+    padding-bottom: 2rem;
+    float: left;
+}
+
+.box3, .box6 {
+    width: 25rem;
+    height: 30rem;
+    border: chocolate 1px solid;
+    padding-bottom: 2rem;
+    float: right;
+}
+
+.img-thumbnail, .img-thumbnaila {
+    max-width: 400px;
+    max-height: 320px;
+    padding-top: 1rem;
+}
+
+.img-thumbnaila {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.row2 {
+    margin-top: .2rem;
+}

@@ -1,0 +1,36 @@
+#mitobody {
+    align-content: center;
+    color: chocolate;
+    background-color: white;
+    width: 100%;
+    max-width: 75rem;
+    border-radius: .8rem;
+    margin-top: 0rem;
+    margin: 3.2rem;
+    padding-top: 1rem;
+    padding-bottom: 6.4rem;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#mitobody h2 {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.container {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.imamito {
+    border-radius: .8rem;
+    max-height: 50rem;
+}
+
+.texto {
+    max-width: 70rem;
+}

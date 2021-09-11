@@ -1,0 +1,31 @@
+#indexbody {
+    align-content: center;
+    color: chocolate;
+    background-color: white;
+    width: 100%;
+    max-width: 75rem;
+    border-radius: .8rem;
+    margin-top: 0rem;
+    margin: 3.2rem;
+    padding-top: 6.4rem;
+    padding-bottom: 6.4rem;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#indexbody h2 {
+    padding-top: 2rem;
+}
+.container {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.imafara {
+    border-radius: .8rem;
+    max-height: 50rem;
+}

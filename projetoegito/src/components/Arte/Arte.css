@@ -1,0 +1,37 @@
+#artebody {
+    align-content: center;
+    color: chocolate;
+    background-color: white;
+    width: 100%;
+    max-width: 75rem;
+    border-radius: .8rem;
+    margin-top: 0rem;
+    margin: 3.2rem;
+    padding-top: 1rem;
+    padding-bottom: 6.4rem;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#artebody h2 {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.container {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.imateto {
+    border-radius: .8rem;
+    max-height: 50rem;
+}
+
+.arteentry {
+    border-bottom: lightgray 1px solid;
+    padding-bottom: 3rem;
+}
